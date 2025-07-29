@@ -1,0 +1,37 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+*.db
+*.cache
+*.pdb
+
+# LibMan
+wwwroot/lib/
+
+# Node/Vite frontend
+node_modules/
+dist/
+Chat/Chat/node_modules/
+Chat/Chat/dist/
+
+# Build outputs
+*.dll
+*.exe
+*.log
+*.tmp
+*.bak
+*.DS_Store
+*.swp
+*.lock
+
+# Docker
+*.tar
+*.img
